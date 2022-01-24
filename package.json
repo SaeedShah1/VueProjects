@@ -1,0 +1,37 @@
+{
+  "name": "paycash",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@xstate/vue": "^0.8.1",
+    "axios": "^0.24.0",
+    "deps": "^1.0.0",
+    "dns": "^0.2.2",
+    "element-plus": "^1.0.2-beta.28",
+    "legacy": "^0.0.3",
+    "peer": "^0.6.1",
+    "redis": "^4.0.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.2",
+    "xstate": "^4.26.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.4",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

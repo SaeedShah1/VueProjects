@@ -1,0 +1,47 @@
+{
+  "branches": [
+    {
+      "id": 1,
+      "BranchCode": "10001",
+      "BranchName": "KHI"
+    },
+    {
+      "id": 1,
+      "BranchCode": "12231",
+      "BranchName": "HYD"
+    },
+    {
+      "id": 1,
+      "BranchCode": "10221",
+      "BranchName": "ISB"
+    },
+    {
+      "id": 1,
+      "BranchCode": "12626",
+      "BranchName": "LHR"
+    }
+  ],
+  "cardTypes": [
+    {
+      "name": "visa"
+    },
+    {
+      "name": "payPak"
+    },
+    {
+      "name": "unionpay"
+    },
+    {
+      "name": "GreenCard"
+    }
+  ],
+  "fundDetails": [
+    {
+      "cardtype": "visa",
+      "accountNumber": "786876",
+      "creditCardNo": "87678-5465",
+      "customerBranch": "HYD"
+  
+  }
+]
+}

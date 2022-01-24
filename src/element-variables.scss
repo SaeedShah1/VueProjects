@@ -1,0 +1,68 @@
+/*
+Write your variables here. All available variables can be
+found in element-plus/packages/theme-chalk/src/common/var.scss.
+For example, to overwrite the theme color:
+*/
+$--color-primary: black;
+
+/* icon font path, required */
+$--font-path: '~element-plus/lib/theme-chalk/fonts';
+
+@import "~element-plus/packages/theme-chalk/src/index";
+.sectioncontent {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container1{
+    margin-top: 5px;
+    border: 1px solid white;
+    width: 30vw;
+    height: 8vw;
+    margin-left: 12 vw;
+  }
+
+  .alignLeft{
+    text-align: left;
+  }
+  
+  .main{
+    margin-top: 5px;
+    border: 1px solid black;
+    width: 65vw;
+    margin-left: 12 vw;
+  }
+
+  
+  .container{
+    margin-top: 5px;
+    border: 1px solid white;
+    width: 60vw;
+    height: 3vw;
+    margin-left: 12 vw;
+  }
+  .feildset {
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 60vw;
+    margin-left: 12 vw;
+  }
+  
+  .backBtn {
+    float: right;
+    // margin: auto !important;
+  }
+  
+  .okBtn {
+    float: left;
+    margin: auto !important;
+  }
+  .bgcolor {
+      background-color: #90b383;
+  }
+  .forwidth{
+      width: 10vw;
+  }
+ .colorBlack{
+color: black;
+  }
